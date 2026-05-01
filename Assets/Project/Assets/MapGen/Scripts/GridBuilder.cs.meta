@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 97a118d7fdafb7b468b8a99fb8c3c0d2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - tileGrassPrefab: {fileID: 2011644738093525531, guid: f942d3d6421214444b34379b05f266c3, type: 3}
+  - tileRockPrefab: {fileID: 2011644738093525531, guid: 59dc047642431e24caebf4286a67efee, type: 3}
+  - tileSandPrefab: {fileID: 2011644738093525531, guid: 4357c0fe040effd4eb34f82d9b699376, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
