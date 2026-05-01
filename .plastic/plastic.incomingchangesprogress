@@ -1,0 +1,20 @@
+[
+  {
+    "MountId": "56e62dd7-241f-41e9-8c6b-dd4ca4513e62",
+    "AncestorCsetIds": [
+      65
+    ],
+    "SourceCsetId": 66,
+    "DestinationCsetId": 65,
+    "FileConflicts": [
+      {
+        "Path": "/Assets/Project/Assets/BattleSystem/Scripts/Ai/PlayerAi.cs",
+        "ItemId": 8348,
+        "ParentItemId": 8197,
+        "BaseRevId": 8413,
+        "SourceRevId": 8637,
+        "DestinationRevId": 8413
+      }
+    ]
+  }
+]
